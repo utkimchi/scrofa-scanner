@@ -9,5 +9,5 @@ A locally hosted twitter bot @scrofa_scanner that tells a user how close the las
 Further work includes hosting the bot in the cloud and identifying if the photo actually contains a hog or not (see below). 
 
 
-![Photo of improperly sourced image](![alt text](https://github.com/utkimchi/scrofa-scanner/blob/master/scrofascanner.png))
+![Photo of failed image](https://github.com/utkimchi/scrofa-scanner/blob/master/scanner2.png)
 
